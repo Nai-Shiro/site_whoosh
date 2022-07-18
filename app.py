@@ -10,7 +10,7 @@ def index():
 
 
 def main():  # Функция запуска
-    app.run(port=5050)
+    app.run(port=7854)
 
 
 main()
