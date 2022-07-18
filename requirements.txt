@@ -1,0 +1,5 @@
+YooMoney~=0.1.0
+Pyrogram~=2.0.30
+pyTelegramBotApi~=4.6.0
+TgCrypto~=1.2.3
+Flask~=2.1.3
