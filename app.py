@@ -6,3 +6,6 @@ app = Flask(__name__)
 
 def main():  # Функция запуска
     app.run(port=5050)
+
+
+main()
