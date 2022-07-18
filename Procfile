@@ -1,1 +1,1 @@
-site: python app.py
+web: gunicorn runp-heroku:app
